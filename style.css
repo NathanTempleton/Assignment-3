@@ -54,3 +54,13 @@ body {
   width: 30%;
   height: 30%;
 }
+
+#education-img {
+  width: 30%;
+  height: 30%;
+  display: none;
+}
+
+.biblio {
+  background-color: rgb(200, 220, 226);
+}
