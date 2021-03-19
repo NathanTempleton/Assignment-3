@@ -22,7 +22,7 @@ function text1 () {
   document.getElementById('conclusion').style.display = 'none'
   document.getElementById('conclusion-2').style.display = 'none'
 }
-/*jscpd:ignore-end */
+/* jscpd:ignore-end */
 
 /* jscpd:ignore-start */
 function text2 () {
@@ -42,7 +42,7 @@ function text2 () {
   document.getElementById('conclusion').style.display = 'none'
   document.getElementById('conclusion-2').style.display = 'none'
 }
-/*jscpd:ignore-end */
+/* jscpd:ignore-end */
 
 /* jscpd:ignore-start */
 function text3 () {
@@ -62,7 +62,7 @@ function text3 () {
   document.getElementById('vocation').style.display = 'none'
   document.getElementById('vocation-2').style.display = 'none'
 }
-/*jscpd:ignore-end */
+/* jscpd:ignore-end */
 
 /* jscpd:ignore-start */
 function text4 () {
@@ -82,7 +82,7 @@ function text4 () {
   document.getElementById('conclusion').style.display = 'none'
   document.getElementById('conclusion-2').style.display = 'none'
 }
-/*jscpd:ignore-end */
+/* jscpd:ignore-end */
 
 /* jscpd:ignore-start */
 function text5 () {
@@ -102,4 +102,4 @@ function text5 () {
   document.getElementById('vocation').style.display = 'none'
   document.getElementById('vocation-2').style.display = 'none'
 }
-/*jscpd:ignore-end */
+/* jscpd:ignore-end */

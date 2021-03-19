@@ -49,3 +49,8 @@ body {
 #conclusion-2 {
   display: none;
 }
+
+#intro-img {
+  width: 30%;
+  height: 30%;
+}
