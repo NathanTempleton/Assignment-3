@@ -1,0 +1,51 @@
+body {
+  background-color: beige;
+}
+
+#job-sum {
+  display: none
+}
+
+#job-sum-2 {
+  display: none
+}
+
+#job-sum-img {
+  display: none
+}
+
+#job-sum-3 {
+  display: none
+}
+
+#education {
+  display: none
+}
+
+#education-2 {
+  display: none
+}
+
+#education-3 {
+  display: none
+}
+
+#education-4 {
+  display: none
+}
+
+#vocation {
+  display: none
+}
+
+#vocation-2 {
+  display: none
+}
+
+#conclusion {
+  display: none
+}
+
+#conclusion-2 {
+  display: none
+}
